@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Sentiment-Analysis
-Making a sentiment analysis app using python and various built-in libraries. Model training, model fitting and model deploying is also done.
+Making a sentiment analysis app using python and various built-in libraries. Model training, model fitting and model deploying is also done. And lastly deploying the app in the web using Streamlit to makit it ever more easy to use and user friendly. 
 =======
 # Sentiment Analysis Web Application
 
